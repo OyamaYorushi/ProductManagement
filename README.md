@@ -6,13 +6,11 @@ Simples progeto para gerenciamento de produto e estoque para aprimorar as habili
 
 ## Pré-requisitos
 
-Liste qualquer software ou ferramentas necessárias para executar o projeto. Por exemplo:
-
 - PHP versão 8.0.30;
 - Composer versão 2.7.6;
 - Node versão 20.14.0;
 - Yarn ou npm;
-- Danco de dados MYSQL instalado;
+- Conexão com bando de dados MYSql;
 
 ## Instalação
 
