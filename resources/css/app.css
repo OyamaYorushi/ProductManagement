@@ -1,0 +1,8 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+@import '@fortawesome/fontawesome-free/css/all.css';
+@import 'datatables.net-bs5/css/dataTables.bootstrap5.min.css';
+
+.return{
+    text-decoration: none;
+}
+
